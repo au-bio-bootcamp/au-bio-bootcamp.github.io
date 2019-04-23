@@ -1,5 +1,5 @@
 Homepage for Auburn University Bioinformatics Bootcamp
 
-[Exercise 1](https://github.com/auburn-bioinformatics-bootcamp/exercise-1)
+[Exercise 1](https://github.com/au-bio-bootcamp/exercise-1)
 
-[Exercise 2](https://github.com/auburn-bioinformatics-bootcamp/exercise-2)
+[Exercise 2](https://github.com/au-bio-bootcamp/exercise-2)
