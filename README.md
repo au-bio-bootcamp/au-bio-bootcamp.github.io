@@ -1,4 +1,6 @@
-Homepage for Auburn University Bioinformatics Bootcamp
+---
+title: Auburn University Bioinformatics Bootcamp
+---
 
 # Homework
 
