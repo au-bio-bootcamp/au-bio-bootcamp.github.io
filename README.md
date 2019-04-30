@@ -2,5 +2,5 @@ Homepage for Auburn University Bioinformatics Bootcamp
 
 # Homework
 
-[Homework](https://github.com/au-bio-bootcamp/homework/readme.md)
+[Homework](https://github.com/au-bio-bootcamp/homework)
 
