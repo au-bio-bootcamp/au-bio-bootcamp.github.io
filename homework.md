@@ -28,7 +28,7 @@ Tip: many UNIX commands have incredibly complicated options, don’t let that st
 ## Part B
 1. Before starting this section, clear the contents of your command history again by running the command: `history -c`
 2. Create a directory in `<NAME>_Bootcamp_Assignment` called `<NAME>_GenbankData` (for example, Smith_GenbankData). Move into this directory to start Part B.
-3. Download the file `DinoPro.fasta` from the "student" account at the address [the-santos-lab.dynu.net] using `scp`. Specifically, the `DinoPro.fasta` file is located in the `homework` directory of the “student” account’s home directory. For a refresher on scp, see:[auburn.edu/bioinformatics/documents/file_transfers.pdf](auburn.edu/bioinformatics/documents/file_transfers.pdf)
+3. Download the file `DinoPro.fasta` from the "student" account at the address [the-santos-lab.dynu.net](the-santos-lab.dynu.net) using `scp`. Specifically, the `DinoPro.fasta` file is located in the `homework` directory of the “student” account’s home directory. For a refresher on scp, see:[auburn.edu/bioinformatics/documents/file_transfers.pdf](auburn.edu/bioinformatics/documents/file_transfers.pdf)
 4. Use `grep` to extract lines with the pattern `>gi` in the file `DinoPro.fasta` and direct this output to a file titled `AllEntries.output`. Examine the contents of this file with the utility less.
 5. Use `grep` to search for the term `Symbiodinium` in the file `AllEntries.output` and send this output to a file titled `SymEntries.output`. Also examine the contents of this file with less.
 6. Use `grep` to exclude entries with the term `Symbiodinium` in the `AllEntries.output` file and send this output to a file titled `NonSymEntries.output`. Also examine the contents of this file with `less`.
@@ -38,7 +38,7 @@ Tip: many UNIX commands have incredibly complicated options, don’t let that st
 
 ## Part C
 1. Archive the contents of the entire `<NAME>_Bootcamp_Assignment` folder for submission by using tar. While in this directory, execute the following: `tar -czf <NAME>_Bootcamp_Assignment.tar <NAME>_SysInfo <NAME>_GenbankData` This will create a compressed file of the directories containing your work (for example, Smith_Bootcamp_Assignment.tar).
-2. Use `scp` to send your `NAME_Bootcamp_Assignment.tar` file to the "student" account at the address [the-santos-lab.dynu.net](the-santos-lab.dynu.net) and place it in the `completed_assignments` directory. Any concern your last name might be the same as another participant? Tack on your initials to your last name in the command you use above during the homework submission.
+2. Use `scp` to send your `<NAME>_Bootcamp_Assignment.tar` file to the "student" account at the address [the-santos-lab.dynu.net](the-santos-lab.dynu.net) and place it in the `completed_assignments` directory. Any concern your last name might be the same as another participant? Tack on your initials to your last name in the command you use above during the homework submission.
 
 ## Part D
 For the sessions relating to Data Visualization, we will be working with software installed directly on your own computer. The three software are all free to you and compatible with all platforms (Mac, Windows, and Linux). In order to participate in the exercises, you will need to download and install each software to your own computer using the instructions below. Please open each once installed to make sure you do not encounter any errors as this will delay your ability to follow along.
