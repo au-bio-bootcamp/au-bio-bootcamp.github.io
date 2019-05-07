@@ -1,15 +1,17 @@
 # Homework Assignment
 
 The assignment requires you to have access to the command line interface (CLI) of a UNIX/Linux based computer. On a Mac OS X or Linux desktop/laptop this is as easy as launching the Terminal app, since the underlying operating system of both is unix/linux. If you use a Windows device, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install Linux subsystem for Windows 10 (see second attachment). Although certainly not required, we recommend that you purchase a copy of Practical Computing for Biologists by Steven Haddock and Casey Dunn. It is a well written book that introduces a number of UNIX shell topics and will serve as an excellent reference for scientific computing in general.
--Alternatively, there are numerous, excellent UNIX learning resources online.  A few very good, brief intros to UNIX commands and the shell environment are listed below:
+-Alternatively, there are numerous, excellent UNIX learning resources online.  A few very good, brief introduction to UNIX commands and the shell environment are listed below:
 
 https://kb.iu.edu/d/afsk
- 
+
+
 https://www.codecademy.com/learn/learnthecommandline
+
 
 http://linuxcommand.org/
 
--You’ll likely be able to find many more out there (Google is your friend!) in addition to resources on Linux mainstays such as grep, awk, sed and shell scripting, all of which we will be using during the Bootcamp. 
+-You’ll likely be able to find many more out there (Google is your friend!) in addition to resources on Linux mainstays such as `grep`, `awk`, `sed` and shell scripting, all of which we will be using during the Bootcamp. 
 
 Tip: many UNIX commands have incredibly complicated options, don’t let that stop you from learning and understanding their simplest use case.
 
