@@ -6,21 +6,21 @@ Although certainly not required, we recommend that you purchase a copy of Pract
 
 * Alternatively, there are numerous, excellent Unix learning resources online.  A few very good, brief introduction to Unix commands and the shell environment are listed below:
 
-  * (https://kb.iu.edu/d/afsk)[https://kb.iu.edu/d/afsk]
+  * [https://kb.iu.edu/d/afsk](https://kb.iu.edu/d/afsk)
 
 
-  * (https://www.codecademy.com/learn/learnthecommandline)[https://www.codecademy.com/learn/learnthecommandline]
+  * [https://www.codecademy.com/learn/learnthecommandline](https://www.codecademy.com/learn/learnthecommandline)
 
 
-  * (http://linuxcommand.org/)[http://linuxcommand.org/]
+  * [http://linuxcommand.org/](http://linuxcommand.org/)
 
 * You’ll likely be able to find many more out there (Google is your friend!) in addition to resources on Linux mainstays such as `grep`, `awk`, `sed` and shell scripting, all of which we will be using during the Bootcamp. 
 
 Tip: many UNIX commands have incredibly complicated options, don’t let that stop you from learning and understanding their simplest use case.
 
-* If available, read through Chapters 4 and 5 of the Haddock and Dunn textbook. Following that, go through the online tutorial at this link: (http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html)[http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html].  Complete sections 1-6 and 8. Skip over the “quota” command at the start of section 6 as well as sections 8.5 and 8.6 as they are not that relevant at this point.
+* If available, read through Chapters 4 and 5 of the Haddock and Dunn textbook. Following that, go through the online tutorial at this link: [http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html](http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html).  Complete sections 1-6 and 8. Skip over the “quota” command at the start of section 6 as well as sections 8.5 and 8.6 as they are not that relevant at this point.
 
-* As a supplemental activity, please read over this page: www.auburn.edu/bioinformatics/documents/file_transfers.pdf (additionally, Chapter 20 of Haddock and Dunn)
+* As a supplemental activity, please read over this page: [www.auburn.edu/bioinformatics/documents/file_transfers.pdf](www.auburn.edu/bioinformatics/documents/file_transfers.pdf) (additionally, Chapter 20 of Haddock and Dunn)
 
 ## Part A
 1. Before starting the assignment, clear the contents of your command history by typing the following command in terminal: `history -c` Create a directory titled with your first and last name: `<NAME>_Bootcamp_Assignment` in the Desktop folder of your user account. Navigate into this directory and work on the project from there.
