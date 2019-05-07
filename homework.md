@@ -1,6 +1,6 @@
 # Homework Assignment
 
-This assignment and exercises at the bioinformatics bootcamp will require the use of command line interfaces (CLI) with a Unix shell. On UNIX-like operatings systems such as macOS and Linux operating systems, this is as easy as launching the Terminal application. If you use a Windows operating system, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install Linux subsystem for Windows 10 ([see Windows user guide to accessing the Alabama Super Computer](using_asc.md)). 
+This assignment and exercises at the bioinformatics bootcamp will require the use of command line interfaces (CLI) with a Unix shell. On UNIX-like operatings systems such as macOS and Linux, this is as easy as launching the Terminal application. If you use a Windows operating system, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install Linux subsystem for Windows 10 ([see Windows user guide to accessing the Alabama Super Computer](using_asc.md)). 
 
 Although certainly not required, we recommend that you purchase a copy of Practical Computing for Biologists by Steven Haddock and Casey Dunn. It is a well written book that introduces a number of Unix shell topics and will serve as an excellent reference for scientific computing in general.
 
@@ -16,7 +16,7 @@ Although certainly not required, we recommend that you purchase a copy of Pract
 
 * You’ll likely be able to find many more out there (Google is your friend!) in addition to resources on Linux mainstays such as `grep`, `awk`, `sed` and shell scripting, all of which we will be using during the Bootcamp. 
 
-Tip: many UNIX commands have incredibly complicated options, don’t let that stop you from learning and understanding their simplest use case.
+Tip: many Unix commands have incredibly complicated options, don’t let that stop you from learning and understanding their simplest use case.
 
 * If available, read through Chapters 4 and 5 of the Haddock and Dunn textbook. Following that, go through the online tutorial at this link: [http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html](http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html).  Complete sections 1-6 and 8. Skip over the “quota” command at the start of section 6 as well as sections 8.5 and 8.6 as they are not that relevant at this point.
 
