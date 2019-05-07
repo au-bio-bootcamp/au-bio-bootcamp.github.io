@@ -2,7 +2,7 @@
 
 For Windows 7, 8 and 10 users, we recommend the freeware program PuTTY (https://putty.org)
 to enable ssh connections to the Alabama Supercomputer Center (ASC). More info on how to
-acquire and install PuTTY can be found in our FAQ.
+acquire and install PuTTY can be found in our [FAQ](http://www.auburn.edu/cosam/bioinformatics/bioinformatics-bootcamp-faqs.htm).
 Alternatively, Microsoft has made available a Linux Subsystem that can be run natively within
 Windows 10, thus allowing one to have a functioning Linux operating system on your personal
 Windows 10 machine that can be used to connect to the ASC during the Bootcamp. Below are
