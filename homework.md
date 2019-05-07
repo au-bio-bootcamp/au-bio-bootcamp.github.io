@@ -1,6 +1,6 @@
 # Homework Assignment
 
-This assignment and exercises at the bioinformatics bootcamp will require the use of command line interfaces (CLI) with a Unix shell. On UNIX-like operatings systems such as macOS and Linux operating systems, this is as easy as launching the Terminal application. If you use a Windows operating system, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install Linux subsystem for Windows 10 [see guide to accessing the Alabama Super Computer](using_asc.md). 
+This assignment and exercises at the bioinformatics bootcamp will require the use of command line interfaces (CLI) with a Unix shell. On UNIX-like operatings systems such as macOS and Linux operating systems, this is as easy as launching the Terminal application. If you use a Windows operating system, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install Linux subsystem for Windows 10 ([see Windows user guide to accessing the Alabama Super Computer](using_asc.md)). 
 
 Although certainly not required, we recommend that you purchase a copy of Practical Computing for Biologists by Steven Haddock and Casey Dunn. It is a well written book that introduces a number of Unix shell topics and will serve as an excellent reference for scientific computing in general.
 
