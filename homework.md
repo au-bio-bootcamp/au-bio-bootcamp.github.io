@@ -9,7 +9,7 @@ Although certainly not required, we recommend that you purchase a copy of Pract
   * [https://kb.iu.edu/d/afsk](https://kb.iu.edu/d/afsk)
 
 
-  * [https://www.codecademy.com/learn/learnthecommandline](https://www.codecademy.com/learn/learnthecommandline)
+  * [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
 
 
   * [http://linuxcommand.org/](http://linuxcommand.org/)
