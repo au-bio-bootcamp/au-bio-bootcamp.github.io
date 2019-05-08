@@ -1,6 +1,6 @@
 # Homework Assignment
 
-[Download PDF](homework.pdf)
+[Download PDF](https://github.com/au-bio-bootcamp/au-bio-bootcamp.github.io/raw/master/homework.pdf)
 
 This assignment and exercises at the bioinformatics bootcamp will require the use of the command line interface (CLI) with a Unix shell. On Unix-like operating systems such as macOS and Linux, this is as easy as launching the Terminal application. If you use a Windows operating system, you can use a terminal emulator (e.g. PuTTY) to connect remotely to a Linux machine, or install the Linux subsystem for Windows 10 ([see Windows user guide to accessing the Alabama Super Computer](using_asc.md)). 
 
