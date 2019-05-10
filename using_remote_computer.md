@@ -22,7 +22,7 @@ After you type in the command and hit "Enter", you will be presented with a coup
 
 Let's practice connecting to a remote computer via ssh by doing the following:
 
-`ssh student@the­santos­lab.dynu.net`
+`ssh student@the santos lab.dynu.net`
 
 Accept (say yes to) any host authenticity prompt and then enter (e.g. copypaste from below) the password that you received via email (which will not be visible ).
 
@@ -38,6 +38,6 @@ To copy files in a secure fashion between UNIX/Linux computers without logging i
 
 How useful is this? Imagine that you are at a meeting and something has happened to the pdf file that you were going to use for your slides. Let's use scp to retrieve a copy of the original from our office (remote) computer by doing the following:
 
-`scp student@the­santos­lab.dynu.net:homework/slides.pdf Newslides.pdf`
+`scp student@the santos lab.dynu.net:homework/slides.pdf Newslides.pdf`
 
-Enter the password (or copy­paste) and note again that the password won’t be visible for security reasons and the file will be automatically downloaded to the current directory that you are in. Now open the Newslides.pdf to make sure it’s fine and you are ready to give your talk. This is just one example; once you get comfortable with using `scp` , you'll never need a USB flash drive to transfer files between UNIX/Linux computers again.
+Enter the password (or copypaste) and note again that the password won’t be visible for security reasons and the file will be automatically downloaded to the current directory that you are in. Now open the Newslides.pdf to make sure it’s fine and you are ready to give your talk. This is just one example; once you get comfortable with using `scp` , you'll never need a USB flash drive to transfer files between UNIX/Linux computers again.
