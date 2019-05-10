@@ -22,7 +22,7 @@ Tip: many Unix commands have incredibly complicated options, don’t let that st
 
 * If available, read through Chapters 4 and 5 of the Haddock and Dunn textbook. Following that, go through the online tutorial at this link: [http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html](http://www.ee.surrey.ac.uk/Teaching/Unix/unix0.html).  Complete sections 1-6 and 8. Skip over the “quota” command at the start of section 6 as well as sections 8.5 and 8.6 as they are not that relevant at this point.
 
-* As a supplemental activity, please read over this page: [Accessing A Remote Computer](remote_computer.md) (additionally, Chapter 20 of Haddock and Dunn)
+* As a supplemental activity, please read over this page: [Accessing a Remote Computer](remote_computer.md) (additionally, Chapter 20 of Haddock and Dunn)
 
 ## Part A
 1. Before starting the assignment, clear the contents of your command history by typing the following command in terminal: `history -c` Create a directory titled with your first and last name: `<NAME>_Bootcamp_Assignment` in the Desktop folder of your user account. Navigate into this directory and work on the project from there.
@@ -35,7 +35,7 @@ Tip: many Unix commands have incredibly complicated options, don’t let that st
 ## Part B
 1. Before starting this section, clear the contents of your command history again by running the command: `history -c`
 2. Create a directory in `<NAME>_Bootcamp_Assignment` called `<NAME>_GenbankData` (for example, Smith_GenbankData). Move into this directory to start Part B.
-3. Download the file `DinoPro.fasta` from the "student" account at the address [the-santos-lab.dynu.net](the-santos-lab.dynu.net) using `scp`. Specifically, the `DinoPro.fasta` file is located in the `homework` directory of the “student” account’s home directory. For a refresher on scp, see: [Accessing A Remote Computer](remote_computer.md)
+3. Download the file `DinoPro.fasta` from the "student" account at the address [the-santos-lab.dynu.net](the-santos-lab.dynu.net) using `scp`. Specifically, the `DinoPro.fasta` file is located in the `homework` directory of the “student” account’s home directory. For a refresher on scp, see: [Accessing a Remote Computer](remote_computer.md)
 4. Use `grep` to extract lines with the pattern `>gi` in the file `DinoPro.fasta` and direct this output to a file titled `AllEntries.output`. Examine the contents of this file with the utility less.
 5. Use `grep` to search for the term `Symbiodinium` in the file `AllEntries.output` and send this output to a file titled `SymEntries.output`. Also examine the contents of this file with less.
 6. Use `grep` to exclude entries with the term `Symbiodinium` in the `AllEntries.output` file and send this output to a file titled `NonSymEntries.output`. Also examine the contents of this file with `less`.
