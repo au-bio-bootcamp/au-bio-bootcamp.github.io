@@ -22,7 +22,7 @@
 
 [Exercise-7]()
 
-[Exercise-8](exercise-8.md)
+[Exercise-8](https://github.com/au-bio-bootcamp/Exercise-8)
 
 [Exercise-9](https://github.com/joaks1/au-bootcamp-git-intro)
 
