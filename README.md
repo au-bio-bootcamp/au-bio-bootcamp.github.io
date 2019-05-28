@@ -2,9 +2,11 @@
 
 [Homework](homework.md)
 
-[Using ASC](using_asc.md)
+[Using ASC For Windows Users](using_asc_windows.md)
 
 [Accessing Remote Computer](remote_computer.md)
+
+[ASC Queue System Tutorial](ASC_Queue_System_Tutorial.pdf)
 
 ## Exercises
 

@@ -1,4 +1,4 @@
-# Using the Alabama Supercomputer Center
+# Using the Alabama Supercomputer Center For Windows Users
 
 For Windows 7, 8 and 10 users, we recommend the freeware program PuTTY (https://putty.org)
 to enable ssh connections to the Alabama Supercomputer Center (ASC). More info on how to
