@@ -29,6 +29,13 @@
 
 [Exercise-10](https://github.com/au-bio-bootcamp/Exercise-10)
 
+
+## Articles
+[So you want to be a computational biologist?](computational_biology_primer.pdf)
+
+[An introduction to Linux for bioinformatics](linux_for_bioinformatics.pdf)
+
+
 ## Resources
 [Alabama Super Computer Manual](asc_manual_2018.pdf)
 
@@ -36,22 +43,16 @@
 
 [Alabama Super Computer Queue Tutorial](asc_queue_system_tutorial.pdf)
 
-[Github Cheatsheet](cheatsheet_github.pdf)
-
 [AWK Cheatsheet](cheatsheet_awk.pdf)
 
-[GIT Cheatsheet](cheatsheet_git.pdf)
+[Git Cheatsheet](cheatsheet_git.pdf)
 
 [Linux Command Line Cheatsheet](cheatsheet_linux_cli.pdf)
 
-[Regular Expressions Cheatsheet](cheatsheet_reg_exp.pdf)
+[Regular Expressions Cheatsheet](cheatsheet_regex.pdf)
 
 [Scripting Cheatsheet](cheatsheet_scripting.pdf)
 
 [Sed Cheatsheet](cheatsheet_sed.pdf)
 
-[So you want to be a computational biologist?](computational_biology_primer.pdf)
-
-[An introduction to Linux for bioinformatics](linux_for_bioinformatics.pdf)
-
-[Vim Commands](vi_commands.pdf)
+[Vim Cheatsheet](vim_cheatsheet.pdf)
