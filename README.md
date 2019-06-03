@@ -1,4 +1,4 @@
-
+**[SCHEDULE](https://docs.google.com/document/d/1aPU5An4ovbltuQYYQX0tufo3Ye1FJO_TslelHsvUcgc/edit)**
 
 [Homework](homework.md)
 
