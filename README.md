@@ -41,7 +41,7 @@
 [Bash scripting](https://drive.google.com/open?id=1t883wShXukfoWgS3B7qJkJZ-ypdZ9af-)
 
 ### Tuesday
-[Text Parsing](https://drive.google.com/open?id=1UkiyFFPD2yl-Je92uTFUGGi5dw-Q7B7uD7omfWt5LeE)
+[Text Parsing](https://drive.google.com/open?id=1jD482l4DoQB8F9_qbfJBX2avxEW0wYJV)
 
 [Contig Assessment](https://drive.google.com/open?id=1bjBd7zcZPKFZLlwZl3HAfK2rhNRbYf6C)
 
