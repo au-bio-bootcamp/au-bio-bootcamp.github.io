@@ -35,22 +35,22 @@
 
 ## Lecture Slides
 
-#### Monday
+### Monday
 [Assembly](https://drive.google.com/open?id=112s0MRmM7MXB67LJtTGtWWo5ItwdQz2l)
 
 [Bash scripting](https://docs.google.com/presentation/d/1PKfRKmru_TlncafTf15xDh-tziLH_g9-s9MuIKrWXmM/edit?usp=sharing)
 
-#### Tuesday
+### Tuesday
 [Text Parsing](https://drive.google.com/open?id=1UkiyFFPD2yl-Je92uTFUGGi5dw-Q7B7uD7omfWt5LeE)
 
 [Contig Assessment](https://drive.google.com/open?id=1bjBd7zcZPKFZLlwZl3HAfK2rhNRbYf6C)
 
-#### Wednesday
+### Wednesday
 [Mapping](https://drive.google.com/open?id=1uLk7DB3gYn-Lh-V_nYDL-m-ST9J2YXpa)
 
-#### Thursday
+### Thursday
 
-#### Friday
+### Friday
 
 
 
