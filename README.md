@@ -45,6 +45,10 @@
 
 [Contig Assessment](https://drive.google.com/open?id=1bjBd7zcZPKFZLlwZl3HAfK2rhNRbYf6C)
 
+[MITOS](https://drive.google.com/open?id=1ehZVnSiaKdezVOmSiUfGk7U4EvDM9aTq)
+
+[Trinotate](https://drive.google.com/open?id=12CeyKU4N3NPfosQ3dKcOJdSK7ze7eIJg)
+
 ### Wednesday
 [Mapping](https://drive.google.com/open?id=1uLk7DB3gYn-Lh-V_nYDL-m-ST9J2YXpa)
 
