@@ -38,7 +38,7 @@
 ### Monday
 [Assembly](https://drive.google.com/open?id=112s0MRmM7MXB67LJtTGtWWo5ItwdQz2l)
 
-[Bash scripting](https://docs.google.com/presentation/d/1PKfRKmru_TlncafTf15xDh-tziLH_g9-s9MuIKrWXmM/edit?usp=sharing)
+[Bash scripting](https://drive.google.com/open?id=1t883wShXukfoWgS3B7qJkJZ-ypdZ9af-)
 
 ### Tuesday
 [Text Parsing](https://drive.google.com/open?id=1UkiyFFPD2yl-Je92uTFUGGi5dw-Q7B7uD7omfWt5LeE)
