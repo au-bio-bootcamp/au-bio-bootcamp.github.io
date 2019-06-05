@@ -33,6 +33,13 @@
 [Exercise-10](https://github.com/au-bio-bootcamp/Exercise-10)
 
 
+## Lecture Slides
+
+[Text Parsing](https://drive.google.com/open?id=1UkiyFFPD2yl-Je92uTFUGGi5dw-Q7B7uD7omfWt5LeE)
+
+[Bash scripting](https://docs.google.com/presentation/d/1PKfRKmru_TlncafTf15xDh-tziLH_g9-s9MuIKrWXmM/edit?usp=sharing)
+
+
 ## Articles
 [So you want to be a computational biologist?](computational_biology_primer.pdf)
 
