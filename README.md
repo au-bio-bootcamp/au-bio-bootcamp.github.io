@@ -58,6 +58,10 @@
 
 ### Thursday
 
+[Differential Expressionn](https://drive.google.com/open?id=159Rs_8z24E-YP6ohxFQtgnjydF893LBh)
+
+[Intro to Git](http://phyletica.org/slides/git-intro/#/)
+
 ### Friday
 
 
