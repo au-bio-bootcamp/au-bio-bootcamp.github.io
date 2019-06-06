@@ -36,6 +36,8 @@
 ## Lecture Slides
 
 ### Monday
+[Sequencing Technology](https://drive.google.com/open?id=112bfIbggbAV6IaE_FTrLfQrJJ45CSbkB)
+
 [Assembly](https://drive.google.com/open?id=112s0MRmM7MXB67LJtTGtWWo5ItwdQz2l)
 
 [Bash scripting](https://drive.google.com/open?id=1t883wShXukfoWgS3B7qJkJZ-ypdZ9af-)
