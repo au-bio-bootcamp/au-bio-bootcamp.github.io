@@ -54,6 +54,8 @@
 ### Wednesday
 [Mapping](https://drive.google.com/open?id=1uLk7DB3gYn-Lh-V_nYDL-m-ST9J2YXpa)
 
+[Variant Calling](https://drive.google.com/open?id=1YOchFrqzDDcXlk0T5GHH6xCegk-MrV_N)
+
 ### Thursday
 
 ### Friday
