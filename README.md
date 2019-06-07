@@ -66,6 +66,8 @@
 
 [R Studio](https://kerrycobb.github.io/r-studio-slides.html)
 
+[Archiving Sequence Data](https://kerrycobb.github.io)
+
 
 ## Articles
 [So you want to be a computational biologist?](computational_biology_primer.pdf)
