@@ -64,7 +64,7 @@
 
 ### Friday
 
-
+[R Studio](r-studio-slides.html)
 
 
 ## Articles
