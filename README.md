@@ -57,12 +57,12 @@
 [Variant Calling](https://drive.google.com/open?id=1YOchFrqzDDcXlk0T5GHH6xCegk-MrV_N)
 
 ### Thursday
-
-[Differential Expressionn](https://drive.google.com/open?id=159Rs_8z24E-YP6ohxFQtgnjydF893LBh)
+[Differential Expression](https://drive.google.com/open?id=159Rs_8z24E-YP6ohxFQtgnjydF893LBh)
 
 [Intro to Git](http://phyletica.org/slides/git-intro/#/)
 
 ### Friday
+[Interactive Genome Viewer](https://drive.google.com/open?id=1wsxESHKfsvbKOmb5-5S1xuw3rkvZ-coi)
 
 
 
