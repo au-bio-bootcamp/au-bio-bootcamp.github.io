@@ -64,7 +64,7 @@
 ### Friday
 [Interactive Genome Viewer](https://drive.google.com/open?id=1wsxESHKfsvbKOmb5-5S1xuw3rkvZ-coi)
 
-[R Studio](r-studio-slides.html)
+[R Studio](https://kerrycobb.github.io/r-studio-slides.html)
 
 
 ## Articles
